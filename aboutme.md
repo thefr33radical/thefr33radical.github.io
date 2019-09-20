@@ -10,7 +10,7 @@
   </div>
   <div class="column">
    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham.png" width="350" title="Gowtham nayak">
-    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham3.png" width="250" title="Gowtham nayak">
+    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham3.png" width="350" title="Gowtham nayak">
    
   </div>
   
