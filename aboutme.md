@@ -4,12 +4,12 @@
 <div class="column">
   <div class="column">
     <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp" width="150" title="Gowtham nayak">
-    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/vr_labs_gowtham.png" width="150" title="Gowtham nayak">
+    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/vr_labs_gowtham.png" width="350" title="Gowtham nayak">
     
   </div>
   <div class="row">
    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham.png" width="150" title="Gowtham nayak">
-    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham3.png" width="150" title="Gowtham nayak">
+    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/github_gowtham3.png" width="250" title="Gowtham nayak">
     <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/sw_github.png" width="150" title="Gowtham nayak">
     </div>
   
