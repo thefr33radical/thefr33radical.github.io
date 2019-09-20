@@ -6,7 +6,7 @@
   <img src="docs/images/vr_labs_gowtham.png" align="center" width="250" height ="150" title="Gowtham nayak">
   </p>
 
- I do this and that. 
+  
 ### Gowtham Nayak
 * **Call Sign** : VU3EBZ
 * **Github** : (https://github.com/thefr33radical)
