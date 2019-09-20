@@ -6,12 +6,12 @@
   <img src="docs/images/vr_labs_gowtham.png" align="center" width="250" height ="150" title="Gowtham nayak">
   </p>
 
-  
+  ![Gowtham](https://github.com/thefr33radical)
 ### Gowtham Nayak
 ```
 
 * Call Sign : VU3EBZ
-* Github : ![Gowtham](https://github.com/thefr33radical)
+* Github : 
 * Linkedin : (https://www.linkedin.com/in/gowt1ham/)
 * Quora : (https://www.quora.com/profile/Gowtham-Nayak-7)
 
