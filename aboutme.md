@@ -3,7 +3,7 @@
 <p align="center">
   <img src="docs/images/swim.bmp" align="center" width="150" height ="150" title="Gowtham nayak">
  <img src="docs/images/sw_github.png" align="center" width="150" height ="150" title="Gowtham nayak">
-  <img src="docs/images/vr_labs_gowtham.png" align="center" width="450" height ="150" title="Gowtham nayak">
+  <img src="docs/images/vr_labs_gowtham.png" align="center" width="350" height ="150" title="Gowtham nayak">
  </p>
  
   
