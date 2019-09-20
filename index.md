@@ -1,1 +1,4 @@
-#### [About Me](https://github.com/thefr33radical/thefr33radical.github.io/blob/master/aboutme.md)
+### About Me
+### Articles
+### Competetive Coding
+### Blog
