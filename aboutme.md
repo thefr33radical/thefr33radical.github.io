@@ -10,8 +10,8 @@
 ### Gowtham Nayak
 
 
-* Call Sign : VU3EB
-[Github](https://github.com/thefr33radical)
+* Call Sign : VU3EBZ
+* [Github](https://github.com/thefr33radical)
 [Linkedin](https://www.linkedin.com/in/gowt1ham/)
 [Quora](https://www.quora.com/profile/Gowtham-Nayak-7)
 ```
