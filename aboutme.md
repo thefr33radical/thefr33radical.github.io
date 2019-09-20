@@ -6,15 +6,15 @@
   <img src="docs/images/vr_labs_gowtham.png" align="center" width="250" height ="150" title="Gowtham nayak">
   </p>
 
-[https://github.com/thefr33radical]
+
 ### Gowtham Nayak
-```
+
 
 * Call Sign : VU3EBZ
-* [Github]
+* [Github]<https://github.com/thefr33radical>
 * [Linkedin](https://www.linkedin.com/in/gowt1ham/)
 * [Quora](https://www.quora.com/profile/Gowtham-Nayak-7)
-
+```
 * Geek, Technophile, PetrolHead.
 * Swimmer, Powerlifter ~ Bodybuilder[Squat 2XX kg / Bench 1XX Kg / Dead 2XX kg], Former SAI Sprinter.
 * Modding computers/coding (15yrs+)
