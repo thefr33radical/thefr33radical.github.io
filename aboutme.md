@@ -1,13 +1,10 @@
 
 # About me:
-
-<div class="row">
-  <div class="column">
-    <img src="docs/images/swim.bmp" align="center" width="350" height ="350" title="Gowtham nayak">
-     <img src="docs/images/sw_github.png" align="center" width="350" height ="350" title="Gowtham nayak">
-   
-  </div>
-  
+<p align="center">
+  <img src="docs/images/swim.bmp" align="center" width="350" height ="350" title="Gowtham nayak">
+ <img src="docs/images/sw_github.png" align="center" width="350" height ="350" title="Gowtham nayak">
+ </p>
+ 
   
 
 
