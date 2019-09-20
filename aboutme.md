@@ -1,10 +1,12 @@
 
 # About me:
 
-#### Gowtham Nayak
+<p align="center">
+  <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp" width="350" title="Gowtham nayak">
+  <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp" width="350" alt="accessibility text">
+</p>
 
-![Gowtham Nayak](https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp)
-
+### Gowtham Nayak
 * **Call Sign** : VU3EBZ
 * **Github** : https://github.com/thefr33radical
 * **Linkedin** : https://www.linkedin.com/in/gowt1ham/
