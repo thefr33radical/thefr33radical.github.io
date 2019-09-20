@@ -4,6 +4,7 @@
   <img src="docs/images/swim.bmp" align="center" width="150" height ="150" title="Gowtham nayak">
  <img src="docs/images/sw_github.png" align="center" width="150" height ="150" title="Gowtham nayak">
   <img src="docs/images/vr_labs_gowtham.png" align="center" width="250" height ="150" title="Gowtham nayak">
+  <img src="docs/images/github_gowtham.png" align="center" width="175" height ="150" title="Gowtham nayak">
  </p>
  
   
