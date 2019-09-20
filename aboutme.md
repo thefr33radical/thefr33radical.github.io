@@ -18,6 +18,5 @@
 * Former SAI Sprinter.
 * Modding computers/coding (15yrs+)
 * Member of KSRA, BARC, working towards a Private Pilot License.
-
 ```
 
