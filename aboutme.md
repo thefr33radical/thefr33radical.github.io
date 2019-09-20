@@ -1,8 +1,8 @@
 
 # About me:
-<p align="center">
-  <img src="docs/images/swim.bmp" align="center" width="350" height ="350" title="Gowtham nayak">
- <img src="docs/images/sw_github.png" align="center" width="350" height ="350" title="Gowtham nayak">
+<p align="left">
+  <img src="docs/images/swim.bmp" align="center" width="250" height ="250" title="Gowtham nayak">
+ <img src="docs/images/sw_github.png" align="center" width="250" height ="250" title="Gowtham nayak">
  </p>
  
   
