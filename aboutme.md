@@ -11,7 +11,7 @@
 ```
 
 * Call Sign : VU3EBZ
-* Github : (https://github.com/thefr33radical)
+* Github : [!Gowtham](https://github.com/thefr33radical)
 * Linkedin : (https://www.linkedin.com/in/gowt1ham/)
 * Quora : (https://www.quora.com/profile/Gowtham-Nayak-7)
 
