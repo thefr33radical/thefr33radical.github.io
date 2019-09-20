@@ -1,7 +1,9 @@
 
-## About me:
+# About me:
 
 #### Gowtham Nayak
+
+![Gowtham Nayak](https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp)
 
 * **Call Sign** : VU3EBZ
 * **Github** : https://github.com/thefr33radical
