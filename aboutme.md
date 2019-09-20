@@ -3,7 +3,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp" width="350" title="Gowtham nayak">
+    <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/swim.bmp" width="350" height ="350" title="Gowtham nayak">
      <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/sw_github.png" width="350" title="Gowtham nayak">
     <img src="https://github.com/thefr33radical/thefr33radical.github.io/blob/master/docs/images/vr_labs_gowtham.png" width="350" title="Gowtham nayak">
     
