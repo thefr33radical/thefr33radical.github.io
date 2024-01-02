@@ -3,11 +3,10 @@
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header |### Competetive Coding|
+| Paragraph |### [About Me](aboutme.md) |
+| Articles |### Articles|
+| Blog |### Blog|
 
 ---
-### Articles
-### Competetive Coding
-### Blog
-### [About Me](aboutme.md)
+
