@@ -13,10 +13,9 @@
 * [Quora](https://www.quora.com/profile/Gowtham-Nayak-7)
 
 ```
-* Geek, Technophile, PetrolHead.
-* Swimmer, Powerlifter ~ Bodybuilder[Squat 2XX kg / Bench 1XX Kg / Dead 2XX kg]
+* Geek, Technophile, PetrolHead, Swimmer, Powerlifter, Bodybuilder[Squat 2XX kg / Bench 1XX Kg / Dead 2XX kg]
 * Former SAI Sprinter.
-* Modding computers/coding (15yrs+)
+* Modding computers/coding.
 * Member of KSRA, BARC, working towards a Private Pilot License.
 ```
 
