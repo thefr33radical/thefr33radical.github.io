@@ -5,7 +5,7 @@
 | ----------- | ----------- |
 | Header | Competetive Coding|
 | Paragraph | [About Me](aboutme.md) |
-| Articles | Articles|
+| Articles | [Articles](articles.md)|
 | Blog | Blog|
 
 ---
